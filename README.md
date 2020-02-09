@@ -13,6 +13,10 @@ Simple python module providing witrdotnet in ASCII art
 
 # Usage
 
+```
+pip install wAsciiArt
+```
+
 ## With interactive interpreter
 
 ```
@@ -23,10 +27,6 @@ $ python
 ```
 
 ## In project
-
-```
-pip install wAsciiArt
-```
 
 ```
 from wAsciiArt import Waa
