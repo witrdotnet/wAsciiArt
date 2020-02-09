@@ -17,6 +17,12 @@ Simple python module providing witrdotnet in ASCII art
 pip install wAsciiArt
 ```
 
+## With command line
+
+```
+python -m wAsciiArt
+```
+
 ## With interactive interpreter
 
 ```
