@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="wAsciiArt",
-    version="0.6",
+    version="1.0",
     packages=find_packages("src"),
     package_dir={"": "src"},
     author="witrdotnet",

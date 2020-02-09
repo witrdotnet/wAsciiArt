@@ -25,6 +25,10 @@ $ python
 ## In project
 
 ```
+pip install wAsciiArt
+```
+
+```
 from wAsciiArt import Waa
   
 waa = Waa()
